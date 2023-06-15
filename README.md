@@ -1,11 +1,11 @@
-About r-bigmemory.sri
-=====================
+About r-bigmemory.sri-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-bigmemory.sri-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=bigmemory.sri
 
 Package license: LGPL-3.0-only OR Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-bigmemory.sri-feedstock/blob/main/LICENSE.txt)
 
 Summary: This package provides a shared resource interface for the bigmemory and synchronicity packages.
 
